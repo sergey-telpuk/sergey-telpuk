@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Hi, I am Sergey Telpuk 😃
 
-<!--
-**sergey-telpuk/sergey-telpuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Seniour Software Engineer at <a href="https://intetics.com/">Intetics</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+</em></p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my own open-source projects (`angry-os`, `pprof-rs`,Linux kernel researching, Algorithms implementation) and SpiralScout open-source projects: `roadrunner`, `goridge`, `endure`.
+- :rocket: Programming Languages: Golang, PHP, Nodejs
+- 🌱 I’m currently reading: `Advanced Web Application Architecture Matthias Noback`
+- 📫 How to reach me: telpuk.sergey@gmail.com or [LinkedIn](www.linkedin.com/in/sergey-telpuk)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+
+![](https://github-readme-stats.vercel.app/api?username=sergey-telpuk&show_icons=true&count_private=true&include_all_commits=true&line_height=27)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sergey-telpuk&count_private=true&layout=compact&include_all_commits=true)
