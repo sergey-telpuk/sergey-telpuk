@@ -1,6 +1,6 @@
 ### 👋 Hi, I am Sergey Telpuk 😃
 
-<p><em>Senior Software Engineer at <a href="https://intetics.com/">Intetics</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+<p><em>Senior Software Engineer at <a href="https://newage.io">Newage.io</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </em></p>
 
 - :rocket: Programming Languages: Golang, PHP, Nodejs
