@@ -1,7 +1,7 @@
 ### 👋 Hi, I am Sergey Telpuk 😃
 
 - :rocket: Programming Languages: Golang, PHP, Nodejs
-- 📫 How to reach me: telpuk.sergey@gmail.com or [LinkedIn](www.linkedin.com/in/sergey-telpuk)  
+- 📫 How to reach me: telpuk.sergey@gmail.com or [LinkedIn](https://www.linkedin.com/in/sergey-telpuk/) 
 
 ----
 
